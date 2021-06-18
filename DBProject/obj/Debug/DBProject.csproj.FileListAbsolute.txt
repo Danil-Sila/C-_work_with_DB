@@ -1,0 +1,42 @@
+E:\Учёба\БД\Курсовая БД\DBProject\DBProject\bin\Debug\DBProject.exe.config
+E:\Учёба\БД\Курсовая БД\DBProject\DBProject\bin\Debug\DBProject.exe
+E:\Учёба\БД\Курсовая БД\DBProject\DBProject\bin\Debug\DBProject.pdb
+E:\Учёба\БД\Курсовая БД\DBProject\DBProject\obj\Debug\DBProject.csprojAssemblyReference.cache
+E:\Учёба\БД\Курсовая БД\DBProject\DBProject\obj\Debug\DBProject.Properties.Resources.resources
+E:\Учёба\БД\Курсовая БД\DBProject\DBProject\obj\Debug\DBProject.csproj.GenerateResource.cache
+E:\Учёба\БД\Курсовая БД\DBProject\DBProject\obj\Debug\DBProject.csproj.CoreCompileInputs.cache
+E:\Учёба\БД\Курсовая БД\DBProject\DBProject\obj\Debug\DBProject.exe
+E:\Учёба\БД\Курсовая БД\DBProject\DBProject\obj\Debug\DBProject.pdb
+E:\Учёба\БД\Курсовая БД\DBProject\DBProject\obj\Debug\DBProject.FMain.resources
+E:\Учёба\БД\Курсовая БД\DBProject\DBProject\obj\Debug\DBProject.FAuthor.resources
+E:\Учёба\БД\Курсовая БД\DBProject\DBProject\obj\Debug\DBProject.FUsers.resources
+E:\Учёба\БД\Курсовая БД\DBProject\DBProject\obj\Debug\DBProject.FSettings.resources
+E:\Учёба\БД\Курсовая БД\DBProject\DBProject\obj\Debug\DBProject.FInform.resources
+C:\Users\Danil\Desktop\DBTourist#1\DBProject\bin\Debug\DBProject.exe.config
+C:\Users\Danil\Desktop\DBTourist#1\DBProject\bin\Debug\DBProject.exe
+C:\Users\Danil\Desktop\DBTourist#1\DBProject\bin\Debug\DBProject.pdb
+C:\Users\Danil\Desktop\DBTourist#1\DBProject\obj\Debug\DBProject.csprojAssemblyReference.cache
+C:\Users\Danil\Desktop\DBTourist#1\DBProject\obj\Debug\DBProject.FInform.resources
+C:\Users\Danil\Desktop\DBTourist#1\DBProject\obj\Debug\DBProject.FSettings.resources
+C:\Users\Danil\Desktop\DBTourist#1\DBProject\obj\Debug\DBProject.FUsers.resources
+C:\Users\Danil\Desktop\DBTourist#1\DBProject\obj\Debug\DBProject.FAuthor.resources
+C:\Users\Danil\Desktop\DBTourist#1\DBProject\obj\Debug\DBProject.FMain.resources
+C:\Users\Danil\Desktop\DBTourist#1\DBProject\obj\Debug\DBProject.Properties.Resources.resources
+C:\Users\Danil\Desktop\DBTourist#1\DBProject\obj\Debug\DBProject.csproj.GenerateResource.cache
+C:\Users\Danil\Desktop\DBTourist#1\DBProject\obj\Debug\DBProject.csproj.CoreCompileInputs.cache
+C:\Users\Danil\Desktop\DBTourist#1\DBProject\obj\Debug\DBProject.exe
+C:\Users\Danil\Desktop\DBTourist#1\DBProject\obj\Debug\DBProject.pdb
+C:\Users\Danil\Desktop\Курсовой Проект\DBTourist#1\DBProject\bin\Debug\DBProject.exe.config
+C:\Users\Danil\Desktop\Курсовой Проект\DBTourist#1\DBProject\bin\Debug\DBProject.exe
+C:\Users\Danil\Desktop\Курсовой Проект\DBTourist#1\DBProject\bin\Debug\DBProject.pdb
+C:\Users\Danil\Desktop\Курсовой Проект\DBTourist#1\DBProject\obj\Debug\DBProject.csprojAssemblyReference.cache
+C:\Users\Danil\Desktop\Курсовой Проект\DBTourist#1\DBProject\obj\Debug\DBProject.FInform.resources
+C:\Users\Danil\Desktop\Курсовой Проект\DBTourist#1\DBProject\obj\Debug\DBProject.FSettings.resources
+C:\Users\Danil\Desktop\Курсовой Проект\DBTourist#1\DBProject\obj\Debug\DBProject.FUsers.resources
+C:\Users\Danil\Desktop\Курсовой Проект\DBTourist#1\DBProject\obj\Debug\DBProject.FAuthor.resources
+C:\Users\Danil\Desktop\Курсовой Проект\DBTourist#1\DBProject\obj\Debug\DBProject.FMain.resources
+C:\Users\Danil\Desktop\Курсовой Проект\DBTourist#1\DBProject\obj\Debug\DBProject.Properties.Resources.resources
+C:\Users\Danil\Desktop\Курсовой Проект\DBTourist#1\DBProject\obj\Debug\DBProject.csproj.GenerateResource.cache
+C:\Users\Danil\Desktop\Курсовой Проект\DBTourist#1\DBProject\obj\Debug\DBProject.csproj.CoreCompileInputs.cache
+C:\Users\Danil\Desktop\Курсовой Проект\DBTourist#1\DBProject\obj\Debug\DBProject.exe
+C:\Users\Danil\Desktop\Курсовой Проект\DBTourist#1\DBProject\obj\Debug\DBProject.pdb
